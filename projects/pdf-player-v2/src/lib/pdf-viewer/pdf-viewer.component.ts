@@ -79,9 +79,7 @@ export class PdfViewerComponent implements OnInit, OnDestroy, OnChanges {
   }
 
   public onPageRendered(event: PageRenderedEvent) {
-    if(testCodeRabbit){
-      
-    }
+
 
   }
 
