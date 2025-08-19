@@ -1,0 +1,7 @@
+version: v1
+merge:
+  require_review: true
+  block_if_review_requested: true
+checks:
+  - name: "SimpliAI Review"
+    required: true
