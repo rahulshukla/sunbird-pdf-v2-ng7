@@ -5,3 +5,5 @@ merge:
 checks:
   - name: "SimpliAI Review"
     required: true
+reviews:
+  request_changes_workflow: true
